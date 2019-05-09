@@ -1,0 +1,9 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "none",
+  "main": "index.js",
+  "repository": "https://github.com/andrewogle/stockr-app.git",
+  "author": "Andrew <andrewryanogle@gmail.com>",
+  "license": "MIT"
+}
